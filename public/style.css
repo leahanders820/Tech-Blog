@@ -1,0 +1,57 @@
+body {
+  background-color: #156e94;
+  margin: 0px;
+  height: 100vh;
+  
+}
+
+.hero {
+
+}
+.hero-area {
+    
+}
+
+.title {
+    margin-left: 50px;
+}
+
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  width: 500px;
+  justify-content: space-around;
+  font-size: 30px;
+}
+
+li {
+  justify-content: space-between;
+}
+
+h1 {
+  font-size: 90px;
+  margin: 0;
+  color: #ffffff;
+}
+
+.title {
+
+}
+
+.post {
+    border: black 5px solid;
+    height: 150px;
+}
+
+.post-content {
+    margin-left: 30px;
+    
+}
+
+
