@@ -2,11 +2,11 @@
 
 ## Description
 
-This is a tech blog that allows users to make an account, view posts, make their own posts and comment on posts. This application is deployed on heroku and uses the MVC paradigm. 
+This is a tech blog that allows users to make an account, view posts, make their own posts and comment on posts. This application is deployed on heroku and uses MVC structure. 
 
 ## Deployed Application
 
-(https://tech-blog-blog-c29b84d919eb.herokuapp.com/)
+[Heroku Page](https://tech-blog-blog-c29b84d919eb.herokuapp.com/)
 
 ## License
 
